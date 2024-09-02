@@ -1,0 +1,68 @@
+/* Add your custom styles adjustments here */
+.p-title {
+  width: 60vw;
+  max-width: 60vw;
+  margin: auto auto;
+}
+@media(max-width: 768px) {
+  .l-main {
+    width: 90vw;
+    max-width: 90vw;
+  }
+  .p-title {
+    width: 90vw;
+    max-width: 90vw;
+    margin: auto auto;
+  }
+  .p-article {
+    width: 80vw;
+    max-width: 80vw;
+    margin: auto auto;
+  }
+}
+
+.audio-sample table {
+  table-layout: fixed; /* テーブル幅を固定 */
+  /* width: 100%; /* div要素の幅に合わせて調整 */ */
+  border-collapse: collapse;
+}
+
+.audio-sample td {
+  width: 100px; /* 各列の幅を設定 */
+  min-width: 100px;
+  word-wrap: break-word; /* セル内の長い単語を折り返す */
+  text-align: center;
+}
+
+.audio-sample audio {
+  width: 200px;
+}
+
+.audio-sample {
+  overflow-x: auto; /* 横スクロールバーを追加 */
+}
+
+
+h1 {
+  font-size: 3.6rem;
+}
+
+h2 {
+  font-size: 3.0rem;
+}
+
+h3 {
+  font-size: 2.6rem;
+}
+
+h4 {
+  font-size: 2.2rem;
+}
+
+h5 {
+  font-size: 2.0rem;
+}
+
+h6, p, li, dd, dt, table {
+  font-size: 1.8rem;
+}

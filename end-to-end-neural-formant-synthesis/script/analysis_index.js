@@ -1,0 +1,145 @@
+// prettier-ignore
+const analysis_synthesis = [
+  {"type":"directory","name":"audio/analysis_synthesis/","contents":[
+    {"type":"directory","name":"jvs001_m","contents":[
+      {"type":"directory","name":"e2e-nf","contents":[
+        {"type":"file","name":"VOICEACTRESS100_001_f1.00_fo1.00_1.00_1.00_1.00.wav"},
+        {"type":"file","name":"VOICEACTRESS100_002_f1.00_fo1.00_1.00_1.00_1.00.wav"},
+        {"type":"file","name":"VOICEACTRESS100_003_f1.00_fo1.00_1.00_1.00_1.00.wav"}
+      ]},
+      {"type":"directory","name":"e2e-nf-pl","contents":[
+        {"type":"file","name":"VOICEACTRESS100_001_f1.00_fo1.00_1.00_1.00_1.00.wav"},
+        {"type":"file","name":"VOICEACTRESS100_002_f1.00_fo1.00_1.00_1.00_1.00.wav"},
+        {"type":"file","name":"VOICEACTRESS100_003_f1.00_fo1.00_1.00_1.00_1.00.wav"}
+      ]},
+      {"type":"directory","name":"e2e-sifi-nf","contents":[
+        {"type":"file","name":"VOICEACTRESS100_001_f1.00_fo1.00_1.00_1.00_1.00.wav"},
+        {"type":"file","name":"VOICEACTRESS100_002_f1.00_fo1.00_1.00_1.00_1.00.wav"},
+        {"type":"file","name":"VOICEACTRESS100_003_f1.00_fo1.00_1.00_1.00_1.00.wav"}
+      ]},
+      {"type":"directory","name":"hifigan","contents":[
+        {"type":"file","name":"VOICEACTRESS100_001_f1.00_fo1.00_1.00_1.00_1.00.wav"},
+        {"type":"file","name":"VOICEACTRESS100_002_f1.00_fo1.00_1.00_1.00_1.00.wav"},
+        {"type":"file","name":"VOICEACTRESS100_003_f1.00_fo1.00_1.00_1.00_1.00.wav"}
+      ]},
+      {"type":"directory","name":"nf","contents":[
+        {"type":"file","name":"VOICEACTRESS100_001_f1.00_fo1.00_1.00_1.00_1.00.wav"},
+        {"type":"file","name":"VOICEACTRESS100_002_f1.00_fo1.00_1.00_1.00_1.00.wav"},
+        {"type":"file","name":"VOICEACTRESS100_003_f1.00_fo1.00_1.00_1.00_1.00.wav"}
+      ]},
+      {"type":"directory","name":"ref","contents":[
+        {"type":"file","name":"VOICEACTRESS100_001.wav"},
+        {"type":"file","name":"VOICEACTRESS100_002.wav"},
+        {"type":"file","name":"VOICEACTRESS100_003.wav"}
+      ]}
+    ]},
+    {"type":"directory","name":"jvs002_f","contents":[
+      {"type":"directory","name":"e2e-nf","contents":[
+        {"type":"file","name":"VOICEACTRESS100_001_f1.00_fo1.00_1.00_1.00_1.00.wav"},
+        {"type":"file","name":"VOICEACTRESS100_002_f1.00_fo1.00_1.00_1.00_1.00.wav"},
+        {"type":"file","name":"VOICEACTRESS100_003_f1.00_fo1.00_1.00_1.00_1.00.wav"}
+      ]},
+      {"type":"directory","name":"e2e-nf-pl","contents":[
+        {"type":"file","name":"VOICEACTRESS100_001_f1.00_fo1.00_1.00_1.00_1.00.wav"},
+        {"type":"file","name":"VOICEACTRESS100_002_f1.00_fo1.00_1.00_1.00_1.00.wav"},
+        {"type":"file","name":"VOICEACTRESS100_003_f1.00_fo1.00_1.00_1.00_1.00.wav"}
+      ]},
+      {"type":"directory","name":"e2e-sifi-nf","contents":[
+        {"type":"file","name":"VOICEACTRESS100_001_f1.00_fo1.00_1.00_1.00_1.00.wav"},
+        {"type":"file","name":"VOICEACTRESS100_002_f1.00_fo1.00_1.00_1.00_1.00.wav"},
+        {"type":"file","name":"VOICEACTRESS100_003_f1.00_fo1.00_1.00_1.00_1.00.wav"}
+      ]},
+      {"type":"directory","name":"hifigan","contents":[
+        {"type":"file","name":"VOICEACTRESS100_001_f1.00_fo1.00_1.00_1.00_1.00.wav"},
+        {"type":"file","name":"VOICEACTRESS100_002_f1.00_fo1.00_1.00_1.00_1.00.wav"},
+        {"type":"file","name":"VOICEACTRESS100_003_f1.00_fo1.00_1.00_1.00_1.00.wav"}
+      ]},
+      {"type":"directory","name":"nf","contents":[
+        {"type":"file","name":"VOICEACTRESS100_001_f1.00_fo1.00_1.00_1.00_1.00.wav"},
+        {"type":"file","name":"VOICEACTRESS100_002_f1.00_fo1.00_1.00_1.00_1.00.wav"},
+        {"type":"file","name":"VOICEACTRESS100_003_f1.00_fo1.00_1.00_1.00_1.00.wav"}
+      ]},
+      {"type":"directory","name":"ref","contents":[
+        {"type":"file","name":"VOICEACTRESS100_001.wav"},
+        {"type":"file","name":"VOICEACTRESS100_002.wav"},
+        {"type":"file","name":"VOICEACTRESS100_003.wav"}
+      ]}
+    ]},
+    {"type":"directory","name":"jvs003_m","contents":[
+      {"type":"directory","name":"e2e-nf","contents":[
+        {"type":"file","name":"VOICEACTRESS100_001_f1.00_fo1.00_1.00_1.00_1.00.wav"},
+        {"type":"file","name":"VOICEACTRESS100_002_f1.00_fo1.00_1.00_1.00_1.00.wav"},
+        {"type":"file","name":"VOICEACTRESS100_003_f1.00_fo1.00_1.00_1.00_1.00.wav"}
+      ]},
+      {"type":"directory","name":"e2e-nf-pl","contents":[
+        {"type":"file","name":"VOICEACTRESS100_001_f1.00_fo1.00_1.00_1.00_1.00.wav"},
+        {"type":"file","name":"VOICEACTRESS100_002_f1.00_fo1.00_1.00_1.00_1.00.wav"},
+        {"type":"file","name":"VOICEACTRESS100_003_f1.00_fo1.00_1.00_1.00_1.00.wav"}
+      ]},
+      {"type":"directory","name":"e2e-sifi-nf","contents":[
+        {"type":"file","name":"VOICEACTRESS100_001_f1.00_fo1.00_1.00_1.00_1.00.wav"},
+        {"type":"file","name":"VOICEACTRESS100_002_f1.00_fo1.00_1.00_1.00_1.00.wav"},
+        {"type":"file","name":"VOICEACTRESS100_003_f1.00_fo1.00_1.00_1.00_1.00.wav"}
+      ]},
+      {"type":"directory","name":"hifigan","contents":[
+        {"type":"file","name":"VOICEACTRESS100_001_f1.00_fo1.00_1.00_1.00_1.00.wav"},
+        {"type":"file","name":"VOICEACTRESS100_002_f1.00_fo1.00_1.00_1.00_1.00.wav"},
+        {"type":"file","name":"VOICEACTRESS100_003_f1.00_fo1.00_1.00_1.00_1.00.wav"}
+      ]},
+      {"type":"directory","name":"nf","contents":[
+        {"type":"file","name":"VOICEACTRESS100_001_f1.00_fo1.00_1.00_1.00_1.00.wav"},
+        {"type":"file","name":"VOICEACTRESS100_002_f1.00_fo1.00_1.00_1.00_1.00.wav"},
+        {"type":"file","name":"VOICEACTRESS100_003_f1.00_fo1.00_1.00_1.00_1.00.wav"}
+      ]},
+      {"type":"directory","name":"ref","contents":[
+        {"type":"file","name":"VOICEACTRESS100_001.wav"},
+        {"type":"file","name":"VOICEACTRESS100_002.wav"},
+        {"type":"file","name":"VOICEACTRESS100_003.wav"}
+      ]}
+    ]},
+    {"type":"directory","name":"jvs004_f","contents":[
+      {"type":"directory","name":"e2e-nf","contents":[
+        {"type":"file","name":"VOICEACTRESS100_001_f1.00_fo1.00_1.00_1.00_1.00.wav"},
+        {"type":"file","name":"VOICEACTRESS100_002_f1.00_fo1.00_1.00_1.00_1.00.wav"},
+        {"type":"file","name":"VOICEACTRESS100_003_f1.00_fo1.00_1.00_1.00_1.00.wav"}
+      ]},
+      {"type":"directory","name":"e2e-nf-pl","contents":[
+        {"type":"file","name":"VOICEACTRESS100_001_f1.00_fo1.00_1.00_1.00_1.00.wav"},
+        {"type":"file","name":"VOICEACTRESS100_002_f1.00_fo1.00_1.00_1.00_1.00.wav"},
+        {"type":"file","name":"VOICEACTRESS100_003_f1.00_fo1.00_1.00_1.00_1.00.wav"}
+      ]},
+      {"type":"directory","name":"e2e-sifi-nf","contents":[
+        {"type":"file","name":"VOICEACTRESS100_001_f1.00_fo1.00_1.00_1.00_1.00.wav"},
+        {"type":"file","name":"VOICEACTRESS100_002_f1.00_fo1.00_1.00_1.00_1.00.wav"},
+        {"type":"file","name":"VOICEACTRESS100_003_f1.00_fo1.00_1.00_1.00_1.00.wav"}
+      ]},
+      {"type":"directory","name":"hifigan","contents":[
+        {"type":"file","name":"VOICEACTRESS100_001_f1.00_fo1.00_1.00_1.00_1.00.wav"},
+        {"type":"file","name":"VOICEACTRESS100_002_f1.00_fo1.00_1.00_1.00_1.00.wav"},
+        {"type":"file","name":"VOICEACTRESS100_003_f1.00_fo1.00_1.00_1.00_1.00.wav"}
+      ]},
+      {"type":"directory","name":"nf","contents":[
+        {"type":"file","name":"VOICEACTRESS100_001_f1.00_fo1.00_1.00_1.00_1.00.wav"},
+        {"type":"file","name":"VOICEACTRESS100_002_f1.00_fo1.00_1.00_1.00_1.00.wav"},
+        {"type":"file","name":"VOICEACTRESS100_003_f1.00_fo1.00_1.00_1.00_1.00.wav"}
+      ]},
+      {"type":"directory","name":"ref","contents":[
+        {"type":"file","name":"VOICEACTRESS100_001.wav"},
+        {"type":"file","name":"VOICEACTRESS100_002.wav"},
+        {"type":"file","name":"VOICEACTRESS100_003.wav"}
+      ]}
+    ]},
+  ]}
+,
+  {"type":"report","directories":29,"files":74}
+]
+
+const speaker_names = analysis_synthesis[0].contents.map(
+  (speaker) => speaker.name,
+);
+
+const analysis_path = analysis_synthesis[0].name.replace("static", "");
+
+const sample_names = analysis_synthesis[0].contents[0].contents
+  .filter((model) => model.name === "ref")[0]
+  .contents.map((sample) => sample.name.replace(".wav", ""));
